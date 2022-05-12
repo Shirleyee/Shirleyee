@@ -1,6 +1,6 @@
 ### Hi there 👋
 我是小猎头Shirley雪莉谢
-- ⭐ 目前在帮Web3.0赛道多个明星创业团队招人
+- ⭐ 目前在帮[B]Web3.0[B]赛道多个明星创业团队招人
 - 
 - 🌱 在招岗位The Role：前端工程师 / Frontend Engineer、后端工程师 / Backend Engineer（golang）/ 全栈工程师Full-stack Engineer/ EVM & 智能合约工程师 / EVM & Smart Contract Engineer / 产品经理Product Manager
 - 
