@@ -1,10 +1,10 @@
 ### Hi there 👋
 我是猎人Shirley雪莉谢
-- ⭐ 目前在帮**Web3.0**赛道多个明星创业团队招人
+- ⭐ 目前在帮[VR\AR]赛道国内头部团队招聘
 - 
-- 🌱 **在招岗位The Role：**前端工程师 / Frontend Engineer、后端工程师 / Backend Engineer（golang）/ 全栈工程师Full-stack Engineer/ EVM & 智能合约工程师 / EVM & Smart Contract Engineer / 产品经理Product Manager / SRE / QA 
+- 🌱 **在招岗位The Role：**前端 Frontend Engineer（React、Vue、Electron..）、后端 Backend Engineer（golang/java/Cpp）/  安卓 Android
 - 
-- 📌 **地点Location：**北京、上海、深圳、Singapore、Remote..
+- 📌 **地点Location：**北京、上海、深圳
 
 
 - 😊 感兴趣速速联系我呀~
